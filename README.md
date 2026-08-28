@@ -740,15 +740,3 @@ You can contribute by:
 * Adding tutorials
 * Adding compatibility information
 * Improving existing mod implementations
-
----
-
-# License
-
-Add your project's license information here.
-
----
-
-# Credits
-
-EmuVR modding documentation focused on MelonLoader, C#, and Unity runtime mod development.
